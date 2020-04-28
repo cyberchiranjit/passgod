@@ -39,4 +39,8 @@ $ python3 passgod.py -chr=abc -min=1 -max=4 -out=output/wordlist.txt
 
 $ python3 passgod.py --chars=abc --min_length=1 --max_length=4 --output=output/password.txt
 
+____________________________________________________________________________________________________
 
+# Legal disclaimer
+
+This tool is created for the sole purpose of security awareness and education, it should not be used against systems that you do not have permission to test/attack. The author is not responsible for misuse or for any damage that you may cause. You agree that you use this software at your own risk.
